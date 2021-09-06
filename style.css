@@ -271,6 +271,10 @@ li {
   .title-postit{
     font-size:25px;
   }
+
+  .liendesktop{
+    display:none;
+  }
 }
 
 .text-footer {
